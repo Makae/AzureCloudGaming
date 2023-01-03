@@ -9,7 +9,7 @@
             }
         },
         "vmSize": {
-            "type": "string",
+            "type": "string"
         },
         "adminUsername": {
             "type": "string",
