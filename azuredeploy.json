@@ -10,12 +10,7 @@
         },
         "vmSize": {
             "type": "string",
-            "defaultValue": "Standard_NV12s_v3",
-            "allowedValues": [
-                "Standard_NV12s_v3",
-                "Standard_NV24s_v3",
-                "Standard_NV48s_v3"
-            ]
+            "defaultValue": "Standard_NV12s_v3"
         },
         "adminUsername": {
             "type": "string",
